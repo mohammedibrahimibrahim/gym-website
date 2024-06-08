@@ -764,7 +764,7 @@
             height: 96vh;
         }
         .parallax {
-            background-image: url(goal5.png);
+            background-image: url(images/goal5.png);
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
@@ -865,7 +865,7 @@
             height: 93vh;
         }
         .parallax {
-            background-image: url(goal5.png);
+            background-image: url(images/goal5.png);
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
@@ -990,7 +990,7 @@
             height: 90vh;
         }
         .parallax {
-            background-image: url(goal5.png);
+            background-image: url(images/goal5.png);
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
