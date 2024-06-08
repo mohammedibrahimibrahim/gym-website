@@ -1724,6 +1724,37 @@
             height: 58vh;
             width: 61.3%;
         }
+        #cc {
+            font-size: 15px;
+            margin-left: 1px;
+            margin-top: 22%;
+            width: 44%;
+        }
+        #bb {
+            margin-left: -1%;
+            font-size: 17px;
+            margin-top: 16%;
+        }
+        #aa {
+            margin-left: 137%;
+            margin-top: 35%;
+            height: 39vh;
+            width: 130%;
+        }
+        #rest {
+            width: 87%;
+            font-size: 18px;
+            margin-top: -42%;
+            margin-left: 18px;
+        }
+        .box1 img {
+            width: 48%;
+            height: 38vh;
+        }
+        .pro img {
+            height: 47vh;
+            width: 50vh;
+        }
     }
     @media(max-width:350px){
         .navbar ul {
