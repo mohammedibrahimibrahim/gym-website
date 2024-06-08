@@ -1724,12 +1724,6 @@
             height: 58vh;
             width: 61.3%;
         }
-        #aa {
-            margin-left: 137%;
-            margin-top: 14%;
-            height: 40vh;
-            width: 131%;
-        }
     }
     @media(max-width:350px){
         .navbar ul {
@@ -1881,9 +1875,6 @@
             height: 66vh;
             width: 71.3%;
         }
-        #aa {
-            width: 138%;
-        }
     }
     @media(max-width:300px){
         .navbar ul {
@@ -2019,8 +2010,5 @@
         .kill img {
             height: 60vh;
             width: 71.3%;
-        }
-        #aa {
-            width: 143%;
         }
     }
