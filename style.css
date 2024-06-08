@@ -74,7 +74,7 @@
         border: 5px solid rgb(29, 29, 29);
     }
     .parallax {
-        background-image: url(goal5.png); /* Replace 'parallax-background.jpg' with your actual image */
+        background-image: url(images/goal5.png); /* Replace 'parallax-background.jpg' with your actual image */
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
